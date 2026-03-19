@@ -1,13 +1,11 @@
 <h1 align="center">Hello 👋, moi c'est Kévin</h1>
-<h3 align="center">Je suis un jeune développeur passionné de 21 ans.</h3>
+<h3 align="center">Je suis un jeune développeur passionné de 22 ans.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zowlak&label=Profile%20views&color=0e75b6&style=flat" alt="zowlak" /> </p>
 
 - 🔭 Je suis développeur freelance avec mon auto-entreprise [Codeek](https://codeek.fr/)
 
-- 🌱 J'apprends actuellement **le développement back-end, la cybersécurité et les sciences des données.**
-
-- 📚 Je suis également créateur de contenu autour du langage de programmation Python sur mon [LinkedIn](https://www.linkedin.com/in/ksilliau/)
+- 📚 J'ai également été créateur de contenu autour du langage de programmation Python sur mon [LinkedIn](https://www.linkedin.com/in/ksilliau/)
 
 - 🤝 Vous pouvez retrouver mon site personnel / portoflio [ici](https://kevin-silliau.com)
 
