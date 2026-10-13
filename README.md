@@ -12,11 +12,11 @@ Developer · Cybersecurity · Digital law & GDPR · DevOps — amplified by AI.<
 
 ### ✈️ What I'm building — Escadron & Cockpit
 
-**Escadron** is a self-hosted fleet of AI agents for software engineering. An orchestrator turns a task into a scoped brief, a coding agent (Claude Code) implements it and opens a pull request, and an **independent reviewer agent** — which never reviews its own work — re-runs the tests, mutates the code to prove the tests catch regressions, and gives a verdict. A human merges. Every decision lands in a shared memory (an MCP server), and a daily job proposes improvements to the fleet, applied only after human approval.
+**Escadron** is a self-hosted fleet of AI agents for software engineering. An orchestrator turns a task into a scoped brief, a fleet of coding agents implements it and opens a pull request, and an **independent reviewer agent** — which never reviews its own work — re-runs the tests, mutates the code to prove the tests catch regressions, and gives a verdict. A human merges. Every decision lands in a shared memory (an MCP server), and a daily job proposes improvements to the fleet, applied only after human approval.
 
 **Cockpit** is the desktop workstation to drive the fleet — missions, reviews, agents and infrastructure on one screen.
 
-Both are in active development. Interested in the private beta? → [contact@kevin-silliau.com](mailto:contact@kevin-silliau.com?subject=Escadron%20beta)
+Both are in active development.
 
 ### 🧭 Background
 
@@ -29,7 +29,7 @@ Both are in active development. Interested in the private beta? → [contact@kev
 ### 🛠️ Toolbox
 
 **Code** Python · TypeScript/JavaScript · C# · PHP · FastAPI · Flask · React<br/>
-**AI** Claude Code · multi-agent orchestration · MCP servers · automated code review<br/>
+**AI** Code Agents (Anthropic, OpenAI, DeepSeek...) · multi-agent orchestration · MCP servers · automated code review<br/>
 **Infra** Docker · GitHub Actions · GitLab CI · Ansible · Terraform · Linux/Windows · Coolify · Tailscale<br/>
 **Data** PostgreSQL · Redis · MongoDB · SQLite<br/>
 **Security & compliance** GDPR audits · DSAR handling · pentesting
